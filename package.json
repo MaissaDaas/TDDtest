@@ -1,0 +1,17 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Tip.js",
+  "scripts": {
+"start": "node Tip.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "mocha": "^10.3.0",
+    "supertest": "^6.3.4"
+  }
+}
